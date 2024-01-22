@@ -1,0 +1,17 @@
+.rodape{
+    background-color: var(--preto);
+    text-align: center;
+
+
+    /*RODAPE NO FIM DA PÀGINA*/
+    /* position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem; */
+}
+
+.rodape h2{
+    font-size: 18px;
+    color: var(--branco);
+    font-weight: 400;
+}
